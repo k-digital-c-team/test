@@ -1,2 +1,2 @@
-YunSangMin
+YunSangMin-Python
 Seunghwan Lee
